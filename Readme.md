@@ -1,7 +1,7 @@
 # Adv Auto Filter Bot
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot/stargazers">
+  <a href="https://github.com/thilak200318/Adv-Auto-Filter-Bot/edit/main/Readme.md">
     <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot?style=social">
 
   </a>
